@@ -66,21 +66,7 @@ Here are some screenshots of the project:
 
 Real-world landing page structuring
 
-Practical use of Flexbox + Grid
-
-UI spacing and alignment understanding
-
-Hover effects and transition improvements
-
-Debugging layouts using borders
-
----
-
-## 📚 Learning Outcomes
-
-Real-world landing page structuring
-
-Practical use of Flexbox + Grid
+Practical use of Flexbox
 
 UI spacing and alignment understanding
 
