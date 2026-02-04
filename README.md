@@ -1,43 +1,97 @@
-Cursor.ai Landing Page Clone
+# 🚀 Cursor.ai Landing Page Clone
 
-This project is a frontend clone inspired by the Cursor.ai landing page, built using pure HTML and CSS. The main goal was to recreate a professional, modern UI while ensuring responsiveness across devices.
+A frontend landing page project inspired by the Cursor.ai website, built using pure HTML and CSS.
+This project focuses on replicating a modern UI layout while maintaining responsiveness and clean design structure.
 
-Table of Contents
+Built during my learning journey in the Chai and Code Web Development Cohort.
 
-Project Overview
+---
 
-Key Highlights
+## Features
 
-Tech Stack
+ Navigation Bar
 
-Project Preview
+ Modern Landing Page Layout
 
-Credits
+ CTA Buttons (Sign In & Download)
 
-Project Overview
+ Testimonial Section using CSS Grid
 
-This project focuses on recreating the sleek and minimal look of the Cursor.ai website. It includes structured sections, responsive layout design, and smooth UI interactions to deliver a polished user experience.
+ Clean Footer Design
 
-The project was developed during the Chai and Code Web Development Cohort as part of hands-on learning.
+---
 
-Key Highlights
+## Tech Stack
 
-Responsive Navbar — Adapts to different screen sizes with smooth hover effects.
+HTML5
 
-Interactive CTA Buttons — “Sign In” and “Download” buttons with transition effects.
+CSS3
 
-Testimonials Section — User feedback displayed using responsive grid layout.
+Flexbox
 
-Clean Footer Section — Simple and informative footer with essential links.
+---
 
-Tech Stack
+## Development Approach
+🔹 Layout Measuring Method
 
-HTML5 — Structure
+Inspected reference layout carefully
 
-CSS3 — Styling
+Measured approximate width and height of elements
 
-Flexbox — Alignment & layout control
+Matched spacing and alignment manually
 
-Credits
+Focused on near pixel-perfect UI
 
-Special thanks to Chai and Code Cohort for guidance and learning support.
+🔹 Border Debugging Technique
+
+Used temporary borders to understand element structure
+
+Helped fix spacing and alignment issues
+
+Removed borders after layout was finalized
+
+---
+
+## 📷 Screenshots
+
+Here are some screenshots of the project:
+ 
+![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
+![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
+![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
+
+---
+
+## 📚 Learning Outcomes
+
+Real-world landing page structuring
+
+Practical use of Flexbox + Grid
+
+UI spacing and alignment understanding
+
+Hover effects and transition improvements
+
+Debugging layouts using borders
+
+---
+
+## 📚 Learning Outcomes
+
+Real-world landing page structuring
+
+Practical use of Flexbox + Grid
+
+UI spacing and alignment understanding
+
+Hover effects and transition improvements
+
+Debugging layouts using borders
+
+---
+
+## Acknowledgement
+
+Thanks to Chai and Code for guidance and structured learning.
+
+
